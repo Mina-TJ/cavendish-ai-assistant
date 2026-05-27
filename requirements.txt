@@ -1,5 +1,0 @@
-openai
-pandas
-streamlit
-python-dotenv
-openpyxl
